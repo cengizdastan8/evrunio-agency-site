@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cengizdastan8.github.io/evrunio-agency-site/sitemap.xml
